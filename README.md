@@ -15,6 +15,8 @@
 
 - ProxyMe: Android VPN Interceptor to Send HTTP and HTTPS traffic to a proxy. [https://github.com/jayluxferro/ProxyMe](https://github.com/jayluxferro/ProxyMe)
 
-- Megatools (written in Python) https://github.com/jayluxferro/megatools-python
+- USBEthernet Driver for MacOS. https://github.com/jayluxferro/USBCDCEthernet
 
-- USBEthernet Driver for MacOS https://github.com/jayluxferro/USBCDCEthernet
+- MAC Address Changer for Windows. https://github.com/jayluxferro/MACAddressTool
+
+- Megatools (written in Python). https://github.com/jayluxferro/megatools-python
