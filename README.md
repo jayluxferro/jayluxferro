@@ -1,4 +1,19 @@
-![jayluxferro's github stats](https://github-readme-stats.vercel.app/api?username=jayluxferro&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayluxferro&show_icons=true&count_private=true&theme=tokyonight&layout=compact&include_all_commits=true&hide_border=true)
+Hi, I am Jay. I work as a Security Consultant for SPERIXLABS (https://sperixlabs.org), which is Cybersecurity Research Lab. 
+
+The Lab conducts research in the following areas:
+1. Internet of Things (IoT).
+2. Crytography.
+3. Artificial Intelligence.
+4. Network and Application Security.
+
+The lab also performs the following activities:
+1. Penetration Testing.
+  - Network Penetration Testing.
+  - Application Security Testing (Web, Mobile and Desktop).
+2. End-Point Security.
+3. Security Training.
+
+
 
 ### Sample Projects
 - Hack-Tools extension for Safari. https://github.com/jayluxferro/Hack-Tools-Safari-Extension
