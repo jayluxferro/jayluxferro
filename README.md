@@ -14,7 +14,7 @@ The lab also performs the following activities:
 3. Security Training.
 
 
-
+<br/><br/>
 ### Sample Projects
 - Hack-Tools extension for Safari. https://github.com/jayluxferro/Hack-Tools-Safari-Extension
 
