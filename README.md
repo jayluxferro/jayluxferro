@@ -17,6 +17,8 @@ The lab also performs the following activities:
 <hr/>
 
 ### Sample Projects
+- Cookie-Editor extension for Safari. https://github.com/jayluxferro/Cookie-Editor
+
 - Hack-Tools extension for Safari. https://github.com/jayluxferro/Hack-Tools-Safari-Extension
 
 - APK Downloader. https://github.com/jayluxferro/APK-Downloader
