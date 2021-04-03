@@ -17,6 +17,8 @@ The lab also performs the following activities:
 <hr/>
 
 ### Sample Projects
+- A DNS Ad-Blocker for iOS, macOS and Android. https://github.com/jayluxferro/block-ads
+
 - Cookie-Editor extension for Safari. https://github.com/jayluxferro/Cookie-Editor
 
 - Hack-Tools extension for Safari. https://github.com/jayluxferro/Hack-Tools-Safari-Extension
