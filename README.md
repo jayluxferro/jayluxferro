@@ -1,4 +1,4 @@
-Hi, I am Jay. I am an indepdendent Cybersecurity Researcher at SPERIXLABS (https://sperixlabs.org); a Cybersecurity Research Lab. 
+Hi, I am Jay. I am currently a Ph.D. Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. I hold a BSc and MPhil in Telecommunication Engineering from the same University. My research interests are Internet of Things (IoT), Network and Application Security, Artificial Intelligence and Applied Cryptography. I am a Huawei Certified Network Associate (HCNA), a Huawei Certified Academy Instructor (HCAI) and also an ICSI Certi- fied Network Security Specialist (CNSS). I am an indepdendent Cybersecurity Researcher at SPERIXLABS (https://sperixlabs.org); a Cybersecurity Research Lab. 
 
 The Lab conducts research in the following areas:
 1. Internet of Things (IoT).
