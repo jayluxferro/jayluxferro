@@ -1,4 +1,4 @@
-Hi, I am Jay. I work as a Researcher for SPERIXLABS (https://sperixlabs.org); a Cybersecurity Research Lab. 
+Hi, I am Jay. I am an indepdendent Cybersecurity Researcher at SPERIXLABS (https://sperixlabs.org); a Cybersecurity Research Lab. 
 
 The Lab conducts research in the following areas:
 1. Internet of Things (IoT).
