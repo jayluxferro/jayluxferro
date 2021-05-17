@@ -1,21 +1,3 @@
-Hi, I am Jay. I am currently a Ph.D. Student at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. I hold a BSc and MPhil in Telecommunication Engineering from the same University. My research interests are Internet of Things (IoT), Network and Application Security, Artificial Intelligence and Applied Cryptography. I am a Huawei Certified Network Associate (HCNA), a Huawei Certified Academy Instructor (HCAI) and also an ICSI Certified Network Security Specialist (CNSS). I am an indepdendent Cybersecurity Researcher at SPERIXLABS (https://sperixlabs.org); a Cybersecurity Research Lab. 
-
-The Lab conducts research in the following areas:
-1. Internet of Things (IoT).
-2. Crytography.
-3. Artificial Intelligence.
-4. Network and Application Security.
-
-The lab also performs the following activities:
-1. Penetration Testing.
-  - Network Penetration Testing.
-  - Application Security Testing (Web, Mobile and Desktop).
-2. End-Point Security.
-3. Security Training.
-
-
-<hr/>
-
 ### Sample Projects
 - A DNS Ad-Blocker for iOS, macOS and Android. https://github.com/jayluxferro/block-ads
 
