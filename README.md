@@ -1,3 +1,13 @@
+### About Me
+Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel free to say hi. ✌🏿
+<a href="mailto:securityteam@sperixlabs.org">✉️</a>
+
+### Research Publications
+<a href="https://sperixlabs.org/publications" target="_blank">Click for details</a>.
+
+### Blog
+<a href="https://sperixlabs.org/posts/" target="_blank">Click for details</a>.
+
 ### Sample Projects
 - A DNS Ad-Blocker for iOS, macOS and Android. https://github.com/jayluxferro/block-ads
 
