@@ -3,7 +3,7 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 <a href="mailto:securityteam@sperixlabs.org">✉️</a>
 
 ### Research Publications
-<a href="https://sperixlabs.org/publications" target="_blank">Click for details</a>.
+<a href="https://sperixlabs.org/publication/" target="_blank">Click for details</a>.
 
 ### Blog
 <a href="https://sperixlabs.org/posts/" target="_blank">Click for details</a>.
