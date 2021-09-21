@@ -1,6 +1,6 @@
 ### About Me
 Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel free to say hi. ✌🏿
-<a href="twitter.com/jayluxferro" target="_blank">✉️</a>
+<a href="https://twitter.com/jayluxferro" target="_blank">✉️</a>
 
 ### Research Publications
 <a href="https://sperixlabs.org/publication/" target="_blank">Click for details</a>.
