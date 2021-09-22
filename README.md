@@ -10,6 +10,8 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 
 ### Sample Projects
 
+- pbcopy. A small utility that allows you to dump clipboard contents on your Jailbroken iPhone to the terminal https://github.com/jayluxferro/pbcopy
+
 - pbpaste.  A small utility to paste text to the clipboard on a jailbroken iPhone https://github.com/jayluxferro/pbpaste
 
 - A DNS Ad-Blocker for iOS, macOS and Android. https://github.com/jayluxferro/block-ads
