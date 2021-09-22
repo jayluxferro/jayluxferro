@@ -9,7 +9,8 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 <a href="https://sperixlabs.org/posts/" target="_blank">Click for details</a>.
 
 ### Sample Projects
-- **pbcopy**.  A small utility to copy text to the clipboard on a jailbroken iPhone https://github.com/jayluxferro/pbcopy
+
+- pbpaste.  A small utility to paste text to the clipboard on a jailbroken iPhone https://github.com/jayluxferro/pbpaste
 
 - A DNS Ad-Blocker for iOS, macOS and Android. https://github.com/jayluxferro/block-ads
 
