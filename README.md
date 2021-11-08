@@ -8,9 +8,6 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 ### Blog
 <a href="https://sperixlabs.org/posts/" target="_blank">Click for details</a>.
 
-### Support my Projects
-<a href="https://dashboard.flutterwave.com/donate/prnwi2mew1ab" target="_blank">Donate ❤️</a>
-
 ### Sample Projects
 
 - pbcopy. A small utility that allows you to dump clipboard contents on your Jailbroken iPhone to the terminal https://github.com/jayluxferro/pbcopy
