@@ -10,6 +10,8 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 
 ### Sample Projects
 
+- Snowflake Extension for Safari Browser. WebRTC pluggable transport for Tor. https://github.com/jayluxferro/snowflake
+
 - pbcopy. A small utility that allows you to dump clipboard contents on your Jailbroken iPhone to the terminal https://github.com/jayluxferro/pbcopy
 
 - pbpaste.  A small utility to paste text to the clipboard on a jailbroken iPhone https://github.com/jayluxferro/pbpaste
