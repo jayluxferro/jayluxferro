@@ -10,6 +10,8 @@ Hi, I am Jay. I love cybersecurity research and writing opensource tools. Feel f
 
 ### Sample Projects
 
+- UnminifyJS. Free tool to unminify JS, CSS, HTML. https://github.com/jayluxferro/unminifyjs, https://unminifyjs.sperixlabs.org
+
 - Snowflake Extension for Safari Browser. WebRTC pluggable transport for Tor. https://github.com/jayluxferro/snowflake
 
 - pbcopy. A small utility that allows you to dump clipboard contents on your Jailbroken iPhone to the terminal https://github.com/jayluxferro/pbcopy
