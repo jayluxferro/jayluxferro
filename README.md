@@ -65,10 +65,8 @@ Code accompanying peer-reviewed work and courses.
 ---
 
 <p align="center">
-  <a href="https://github.com/jayluxferro">
-    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jayluxferro&show_icons=true&hide=contribs&title_color=ffc66d&icon_color=ffc66d&text_color=a9a9b3&bg_color=232425&hide_border=true" />
-    <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayluxferro&layout=compact&title_color=ffc66d&text_color=a9a9b3&bg_color=232425&hide_border=true" />
-  </a>
+  <a href="https://github.com/jayluxferro?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jayluxferro?style=flat-square&labelColor=232425&color=ffc66d" /></a>
+  <a href="https://github.com/jayluxferro?tab=repositories"><img alt="GitHub stars" src="https://img.shields.io/github/stars/jayluxferro?style=flat-square&labelColor=232425&color=ffc66d" /></a>
 </p>
 
 <p align="center"><sub>BUILD WITH SECURITY</sub></p>
